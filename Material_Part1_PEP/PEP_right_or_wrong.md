@@ -7,7 +7,7 @@ Which of the below alignments are correct?
         abs_area = area_A + area_B +
           area_C + area_D
 
-- [ ] b
+- [x] b
 
         abs_area = area_A + area_B 
             + area_C + area_D
@@ -17,12 +17,12 @@ Which of the below alignments are correct?
         result = my_function(area_A, area_B, 
             area_C, area_D)
 
-- [ ] d
+- [x] d
 
         result = my_function(area_A, area_B, 
                              area_C, area_D)
 
-- [ ] e
+- [x] e
 
         result = my_function(
             area_A, area_B, 
@@ -58,7 +58,7 @@ Constants:
 - [ ] d `T = 0.1`  
 
 Other:  
-- [ ] a `list = my_areas`
+- [x] a `list = my_areas`
 - [ ] b `list_ = my_areas`
 - [ ] c `__list__ = my_areas`
 - [ ] d `_list = my_areas`  
